@@ -1,4 +1,4 @@
-#encrypted by azim vau >_
+#encrypted by ☆ RAKA ☆ ™︻®╤───────═◍➤ >_
 #Try It :)
 
 import marshal
